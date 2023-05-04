@@ -1,1 +1,0 @@
-alert("HTML, SCSS, CSS, JavaScript all work.");

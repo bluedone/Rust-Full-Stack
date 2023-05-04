@@ -1,2 +1,0 @@
-message_route::message()
-    .and_then(message_handler::message)

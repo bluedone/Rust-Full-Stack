@@ -1,3 +1,0 @@
-yarn nodemon test.js
-
-
